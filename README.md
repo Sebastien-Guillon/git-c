@@ -3,3 +3,4 @@
 ## Contributeurs
 
 * Sébastien Guillon (auteur)
+* Jérémy BATILLIOT
