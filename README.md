@@ -2,4 +2,4 @@
 
 ## Contributeurs
 
-* Sébastien Guillon
+* Sébastien Guillon (auteur)
