@@ -1,5 +1,11 @@
 # Cours Git - Groupe C
 
+
+* mike 1ere 
+
+
+
+
 ## Contributeurs
 
 * Sébastien Guillon (auteur)
