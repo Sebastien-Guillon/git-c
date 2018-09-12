@@ -4,3 +4,4 @@
 
 * Sébastien Guillon (auteur)
 * Jérémy BATILLIOT
+* Alix Le Bert
