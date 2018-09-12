@@ -4,4 +4,8 @@
 
 * Sébastien Guillon (auteur)
 * Jérémy BATILLIOT
-* michael BANICLES
+* Elayache Farouk
+* Alix Le Bert
+* francis
+* Alexandre DJORDJEVIC le beau gosse
+* 
